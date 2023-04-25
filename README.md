@@ -6,6 +6,10 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maru-koyo&theme=dracula)
 
+## TOP LANGUAGE
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?maru-koyo=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## SKILL
 
 [![giticon](https://skillicons.dev/icons?i=html,css,sass,js,ts,vite)](https://skillicons.dev)
