@@ -12,4 +12,4 @@ Hello,Web Corder👐
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maru-koyo)
 
-<img href="https://github-profile-trophy.vercel.app/?username=maru-koyo&title=Stars,Followers">
+<a align="left"><img href="https://github-profile-trophy.vercel.app/?username=maru-koyo&title=Stars,Followers"></a>
