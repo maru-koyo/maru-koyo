@@ -12,4 +12,4 @@
 
 [![giticon](https://skillicons.dev/icons?i=threejs,nextjs,astro,react,php,laravel)](https://skillicons.dev)
 
-[![giticon](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://skillicons.dev)
+[![giticon](https://skillicons.dev/icons?i=netlify,vercel,git,github,vscode,linux)](https://skillicons.dev)
