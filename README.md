@@ -13,7 +13,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maru-koyo" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vite" />
-  <img align="left" src="https://skillicons.dev/icons?i=threejs,nextjs,astro,react,php,laravel" />
-  <img align="left" src="https://skillicons.dev/icons?i=netlify,vercel,git,github,vscode,linux" />
+  <img align="left" src="https://skillicons.dev/icons?i=html,css,sass" />
+  <img align="left" src="https://skillicons.dev/icons?i=js,ts,vite" />
+  <img align="left" src="https://skillicons.dev/icons?i=threejs,nextjs,astro" />
+  <img align="left" src="https://skillicons.dev/icons?i=github,vscode,linux" />
 </a>
