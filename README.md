@@ -8,4 +8,4 @@
 
 ## SKILL
 
-[![giticon](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,threejs,nextjs,astro,react,php,laravel,vercel,git,github,vscode)](https://skillicons.dev)
+[![giticon](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,threejs,nextjs,astro,react,php,laravel,git,github,vscode)](https://skillicons.dev)
