@@ -5,3 +5,7 @@
 ## INFO
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maru-koyo&theme=dracula)
+
+## SKILL
+
+![giticon](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
