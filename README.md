@@ -8,7 +8,4 @@
 
  ![](https://skillicons.dev/icons?i=html,css,sass,js,ts,vite,threejs,nextjs,astro,github,vscode,linux)
 
-## TOP LANGUAGE
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maru-koyo" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maru-koyo)
