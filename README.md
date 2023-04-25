@@ -1,4 +1,4 @@
-# jsおじさん
+# KOYO PROFILE
 
 ## MY SKILL
 
