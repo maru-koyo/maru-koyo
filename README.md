@@ -11,3 +11,5 @@ Hello,Web Corder👐
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maru-koyo&theme=dracula)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maru-koyo)
+
+![](https://github-profile-trophy.vercel.app/?username=maru-koyo&rank=S)
