@@ -2,6 +2,8 @@
 
 # TAKAYA PROFILE
 
+Hello,Web Corder👐
+
 ## INFO
 
 ![](https://skillicons.dev/icons?i=html,css,sass,js,ts,vite,threejs,nextjs,astro,github,vscode,linux)
