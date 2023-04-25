@@ -14,7 +14,12 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://skillicons.dev/icons?i=html,css,sass" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://skillicons.dev/icons?i=js,ts,vite" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://skillicons.dev/icons?i=threejs,nextjs,astro" />
+</a><a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://skillicons.dev/icons?i=github,vscode,linux" />
 </a>
