@@ -1,6 +1,6 @@
-# TAKAYA PROFILE
-
 ![](https://komarev.com/ghpvc/?username=maru-koyo&color=ff69b4&label=PROFILE+VIEWS)
+
+# TAKAYA PROFILE
 
 ## INFO
 
