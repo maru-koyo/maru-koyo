@@ -17,11 +17,3 @@
   <img align="left" src="https://skillicons.dev/icons?i=threejs,nextjs,astro,react,php,laravel" />
   <img align="left" src="https://skillicons.dev/icons?i=netlify,vercel,git,github,vscode,linux" />
 </a>
-
-
-
-[![giticon]()](https://skillicons.dev)
-
-[![giticon])](https://skillicons.dev)
-
-[![giticon]()](https://skillicons.dev)
