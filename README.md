@@ -6,7 +6,7 @@ Hello,Web Corder👐
 
 ## INFO
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,vite,threejs,react,nextjs,astro,php,laravel,github,vscode)
+![](https://skillicons.dev/icons?i=html,css,scss,js,ts,threejs,react,nextjs,astro,php,laravel,github,vscode)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maru-koyo&theme=dracula)
 
