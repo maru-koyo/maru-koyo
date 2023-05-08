@@ -8,6 +8,7 @@ Hello,Web Corder👐
 
 ![](https://skillicons.dev/icons?i=html,css,scss,js,ts,threejs,react,nextjs,astro,php,laravel,github,vscode)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=maru-koyo)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maru-koyo&theme=dracula)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maru-koyo)
